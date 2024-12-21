@@ -26,7 +26,7 @@ Olá! Sou um desenvolvedor entusiasta com conhecimento em **HTML**, **CSS** e **
   ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
   ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GusRael&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GusRael&hide_progress=false)
   
 
 ---
