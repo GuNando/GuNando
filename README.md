@@ -31,7 +31,7 @@ Olá! Sou um desenvolvedor entusiasta com conhecimento em **HTML**, **CSS** e **
 ## 📈 Estatísticas do GitHub
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GusRael&hide_progress=true)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GusRael&show_icons=true&theme=radical)
 
 ---
 
